@@ -11,8 +11,8 @@
   <div>
     <p><b>Status</p>
     <a href="https://github.com/JoelFausto">    
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoelFausto&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelFausto&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoelFausto&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelFausto&layout=compact&langs_count=7&theme=transparent"/>
   </div>
 
   ##
@@ -23,3 +23,7 @@
   <img align="center" alt="Jf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
+
+<!--- 
+![Snake animation](https://github.com/gabdev95/gabdev95/blob/output/github-contribution-grid-snake.svg)
+-->
